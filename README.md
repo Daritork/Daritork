@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Daritork</h1>
 
-![Visitor Count](https ://profile-counter.glitch.me/Daritork/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Daritork&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Daritork" /> </p>
 
 <!--
 **Daritork/Daritork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
