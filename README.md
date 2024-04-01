@@ -32,4 +32,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daritork&theme=github_dark"/>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Daritork&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Daritork" /> </p>
+
 <p align="center"> 👉🏻 If u wanna support me, I would greatly appreciate, if you could take a moment to explore them and consider leaving a ⭐️ 👈🏻 </p>
