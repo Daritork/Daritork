@@ -29,9 +29,9 @@
 
 ## 🎮 p5.js Projects
 
-![Ping Pong](https://editor.p5js.org/Daritork/full/NAsvxd4F-)
+[Ping Pong](https://editor.p5js.org/Daritork/full/NAsvxd4F-)
 
-![PaintWars](https://editor.p5js.org/Daritork/sketches/kS76ygRpl)
+[PaintWars](https://editor.p5js.org/Daritork/sketches/kS76ygRpl)
 
 ## 📈 GitHub Info
 <p align="center">
