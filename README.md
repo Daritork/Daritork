@@ -4,7 +4,7 @@
 
 ## 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Page about Saxophone](https://daritork.github.io/SaxPage/).
+- 🔭 I’m currently building some portfolio projects.
 - 🌱 I’m currently learning more about JS/TS Libraries.
 - 👯 I’m looking to collaborate on [Discord](https://discord.com/invite/k5tDe6Tw).
 - 🤔 I’m looking for help with working experience.
