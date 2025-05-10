@@ -41,18 +41,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=daritork&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/daritork/daritork/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/daritork/count.svg?"  />
-</div>
-
-###
-
 ## 📈 GitHub Info
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daritork&theme=github_dark"/>
